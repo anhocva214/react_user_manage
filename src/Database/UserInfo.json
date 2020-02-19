@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Hồ An",
+        "phone": "0947563748" ,
+        "permission": "admin"
+    },
+    {
+        "id": 2,
+        "name": "Lê Chí Huy",
+        "phone": "096676756" ,
+        "permission": "user"
+    },
+    {
+        "id": 3,
+        "name": "Đăng Khôi",
+        "phone": "0947542412" ,
+        "permission": "user"
+    },
+    {
+        "id": 4,
+        "name": "Phú Tuấn",
+        "phone": "0947536328" ,
+        "permission": "user"
+    },
+    {
+        "id": 5,
+        "name": "Thiên Phú",
+        "phone": "09475633435" ,
+        "permission": "admin"
+    }
+]
